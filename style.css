@@ -1,0 +1,30 @@
+/* Pregunta No. 7 */
+/* Creamos el contenedor */
+section {
+    border: 2px dotted black;
+    width: 70vh;
+    height: 80vh;
+    margin: auto;
+    /* Posicionamos los cuadros rojos*/
+    display: block;
+}
+
+/* Creamos los cuadros rojos*/
+div {
+    border: 2px dotted red;
+    width: 20vh;
+    height: 30vh;
+    /* Posicionamos los cuadros rojos*/
+    margin: 5vh auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 150vh;
+    margin: 2% 6%;
+    
+}
+
